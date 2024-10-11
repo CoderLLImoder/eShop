@@ -1,0 +1,17 @@
+/Users/ikaperskiy/repositories/Awara_test/eShop/bin/Debug/net8.0/eShop
+/Users/ikaperskiy/repositories/Awara_test/eShop/bin/Debug/net8.0/eShop.deps.json
+/Users/ikaperskiy/repositories/Awara_test/eShop/bin/Debug/net8.0/eShop.runtimeconfig.json
+/Users/ikaperskiy/repositories/Awara_test/eShop/bin/Debug/net8.0/eShop.dll
+/Users/ikaperskiy/repositories/Awara_test/eShop/bin/Debug/net8.0/eShop.pdb
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.AssemblyInfoInputs.cache
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.AssemblyInfo.cs
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.csproj.CoreCompileInputs.cache
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.dll
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/refint/eShop.dll
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.pdb
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.genruntimeconfig.cache
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/ref/eShop.dll
+/Users/ikaperskiy/repositories/Awara_test/eShop/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.csproj.AssemblyReference.cache
+/Users/ikaperskiy/repositories/Awara_test/eShop/obj/Debug/net8.0/eShop.csproj.Up2Date

@@ -1,0 +1,6 @@
+[
+    { "Articul": 1, "Name": "MacBook Air 13'", "Price": 149000 },
+    { "Articul": 2, "Name": "IPhone 16 Pro Max", "Price": 129000 },
+    { "Articul": 3, "Name": "AirPods Pro", "Price": 15000 },
+    { "Articul": 4, "Name": "Apple Watch 10", "Price": 40000 }
+]
